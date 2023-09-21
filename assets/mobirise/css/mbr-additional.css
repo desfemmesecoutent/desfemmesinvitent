@@ -1,10 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -574,32 +567,6 @@ blockquote {
 .mbr-form .input-group-btn button[type="submit"]:hover {
   box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
 }
-.form2 .form-control {
-  border-top-left-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-.form2 .input-group-btn a.btn {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form2 .input-group-btn button[type="submit"] {
-  border-top-left-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
-}
-.form3 input[type="email"] {
-  border-radius: 100px !important;
-}
-@media (max-width: 349px) {
-  .form2 input[type="email"] {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn a.btn {
-    border-radius: 100px !important;
-  }
-  .form2 .input-group-btn button[type="submit"] {
-    border-radius: 100px !important;
-  }
-}
 @media (max-width: 767px) {
   .btn {
     font-size: .75rem !important;
@@ -712,16 +679,16 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-sy4cwTecBo {
-  background-image: url("../../../assets/images/femme-priere-posters3.jpeg");
+  background-image: url("../../../assets/images/au-spa-affiche-1587x2245.png");
 }
 .cid-sy4cwTecBo H1 {
-  color: #232323;
+  color: #a65c6d;
 }
 .cid-sy3jz8Lger {
-  background-image: url("../../../assets/images/femme-priere-posters2.jpeg");
+  background-color: #fcf3f7;
 }
 .cid-sy3jz8Lger H1 {
-  color: #d96311;
+  color: #ff3366;
   text-align: center;
 }
 .cid-sy3jz8Lger .mbr-text,
@@ -729,7 +696,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-sy3jz8Lger H3 {
-  color: #d96311;
+  color: #ff3366;
 }
 .cid-tif9Kr6bQD {
   padding-top: 45px;
@@ -782,12 +749,12 @@ section.lazy-placeholder:after {
   padding-bottom: 2rem;
 }
 .cid-tif9Kr6bQD .mbr-section-title {
-  color: #d96311;
+  color: #cc2952;
 }
 .cid-tifk5rgII1 {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #fa7518;
+  background-color: #f9e56b;
 }
 .cid-tifk5rgII1 h3 {
   text-align: center;
@@ -797,10 +764,10 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-tifk5rgII1 .mbr-content-text {
-  color: #ffffff;
+  color: #cc2952;
 }
 .cid-tifk5rgII1 .panel-item {
-  background: #fa7518;
+  background: #f9e56b;
 }
 .cid-tifk5rgII1 .card {
   word-wrap: break-word;
@@ -810,15 +777,15 @@ section.lazy-placeholder:after {
   color: #149dcc;
 }
 .cid-tifk5rgII1 .mbr-section-title {
-  color: #ffffff;
+  color: #cc2952;
 }
 .cid-tifk5rgII1 H3 {
-  color: #f9f295;
+  color: #cc2952;
 }
 .cid-sz3Y4Uumly {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-sz3Y4Uumly .mbr-section-btn > * {
   margin: 0;
@@ -883,12 +850,12 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-sz3Y4Uumly H2 {
-  color: #fa7518;
+  color: #ff7f9f;
 }
 .cid-tif51bAM2s {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #fa7518;
+  background-color: #e15d7b;
 }
 .cid-tif51bAM2s P {
   color: #767676;
@@ -920,7 +887,7 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-sz7foFRzuy .mbr-text {
-  color: #fa7518;
+  color: #cc2952;
 }
 .cid-sz7foFRzuy textarea.form-control {
   min-height: 100px;
@@ -930,7 +897,7 @@ section.lazy-placeholder:after {
   border-radius: 3px;
 }
 .cid-sz7foFRzuy .google-map {
-  height: 39rem;
+  height: 31rem;
   position: relative;
 }
 .cid-sz7foFRzuy .google-map iframe {
@@ -978,5 +945,5 @@ section.lazy-placeholder:after {
 .cid-sz5NM60rTP {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #fa7518;
+  background-color: #cc2952;
 }
